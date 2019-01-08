@@ -10,3 +10,6 @@
 
 ## C++
 * [makefile](https://seisman.github.io/how-to-write-makefile/introduction.html)
+
+## QA
+* [latex](https://tex.stackexchange.com/)
