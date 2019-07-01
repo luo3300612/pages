@@ -11,5 +11,9 @@
 ## C++
 * [makefile](https://seisman.github.io/how-to-write-makefile/introduction.html)
 
+## NLP
+* [Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+* [transformer](http://jalammar.github.io/illustrated-transformer/)
+
 ## QA
 * [latex](https://tex.stackexchange.com/)
