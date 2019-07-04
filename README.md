@@ -2,6 +2,9 @@
 * [i3论坛](https://www.reddit.com/r/i3wm/)
 * [壁纸](https://www.artstation.com/aenamiart)
 
+## DL
+* [deep learning tips](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+
 ## CV
 * [arxiv](https://arxiv.org/list/cs.CV/recent)
 * [visionbib](http://www.visionbib.com/bibliography/contents.html)
