@@ -4,6 +4,7 @@
 
 ## DL
 * [deep learning tips](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+* [分布式](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/)
 
 ## CV
 * [arxiv](https://arxiv.org/list/cs.CV/recent)
