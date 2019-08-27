@@ -25,3 +25,12 @@
 
 ## QA
 * [latex](https://tex.stackexchange.com/)
+
+## others
+* [图卷积](https://www.zhihu.com/question/54504471/answer/332657604)
+ * 拉普拉斯矩阵的性质，对称、半正定、可对角化、特征值向量组成正交矩阵
+ * 拉普拉斯算子：二阶微分算子，梯度的散度
+ * 图卷积和傅里叶变换的联系
+* [傅里叶变换](https://zhuanlan.zhihu.com/p/19763358)
+* [散度](https://www.zhihu.com/question/24074028/answer/26657334)
+* [拉普拉斯算子](https://www.zhihu.com/question/26822364/answer/288531247)
